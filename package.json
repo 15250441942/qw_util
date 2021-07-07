@@ -1,0 +1,20 @@
+{
+  "name": "qw_util",
+  "version": "1.0.0",
+  "description": "qw_util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15250441942/qw_util.git"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15250441942/qw_util/issues"
+  },
+  "homepage": "https://github.com/15250441942/qw_util#readme"
+}
